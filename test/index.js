@@ -4,8 +4,6 @@ var join = require('path').join;
 
 var transform = require('../');
 
-var file = join(__dirname, 'input.json');
-var output;
 var failed = false;
 
 function assertEqual(output, expected) {
