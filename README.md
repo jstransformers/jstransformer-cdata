@@ -15,11 +15,11 @@ Transformer that converts a string to an XML CDATA.
 ```js
 var cdata = require('jstransformer')(require('jstransformer-cdata'))
 
-cdata.render('hello world')
+cdata.render('hello world').body
 //=> '<![CDATA[hello world]]>'
 
 // ']]>' is properly escaped:
-cdata.render('<[[goodbye world]]>')
+cdata.render('<[[goodbye world]]>').body
 //=> '<![CDATA[<[[goodbye world]]]]><![CDATA[>]]>'
 ```
 
