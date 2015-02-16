@@ -13,7 +13,7 @@ Transformer that converts a string to an XML CDATA.
 ## API
 
 ```js
-var cdata = jstransformer(require('jstransformer-cdata'))
+var cdata = require('jstransformer')(require('jstransformer-cdata'))
 
 cdata.render('hello world')
 //=> '<![CDATA[hello world]]>'
