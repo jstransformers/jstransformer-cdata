@@ -1,10 +1,11 @@
-# jstransformer-cdata
+# jstransformer-foo
 
-Transformer that converts a string to an XML CDATA.
+[JSTransformer](http://github.com/jstransformers) that converts a string to an XML CDATA.
 
-[![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-cdata/master.svg)](https://travis-ci.org/jstransformers/jstransformer-cdata)
-[![Coverage Status](https://img.shields.io/coveralls/jstransformers/jstransformer-cdata/master.svg)](https://coveralls.io/r/jstransformers/jstransformer-cdata?branch=master)
-[![NPM version](https://img.shields.io/npm/v/jstransformer-cdata.svg)](https://www.npmjs.org/package/jstransformer-cdata)
+[![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-cdata/master.svg)](https://travis-ci.org/jstransformers/jstransformer-foo)
+[![Coverage Status](https://img.shields.io/coveralls/jstransformers/jstransformer-cdata/master.svg)](https://coveralls.io/r/jstransformers/jstransformer-foo?branch=master)
+[![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-cdata/master.svg)](http://david-dm.org/jstransformers/jstransformer-foo)
+[![NPM version](https://img.shields.io/npm/v/jstransformer-cdata.svg)](https://www.npmjs.org/package/jstransformer-foo)
 
 ## Installation
 
