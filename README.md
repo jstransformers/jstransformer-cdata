@@ -1,4 +1,4 @@
-# jstransformer-foo
+# jstransformer-cdata
 
 [JSTransformer](http://github.com/jstransformers) that converts a string to an XML CDATA.
 
